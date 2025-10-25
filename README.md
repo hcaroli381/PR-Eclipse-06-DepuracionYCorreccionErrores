@@ -1,4 +1,6 @@
 # PR-Eclipse-06-DepuracionYCorreccionErrores
 
-## 
-Poner == en el while para declarar true
+## 1. Poner == en while para declarar true
+Cometo un error poniendo continuar = true sin ==, por lo que mi while no funciona correctamente.
+
+
